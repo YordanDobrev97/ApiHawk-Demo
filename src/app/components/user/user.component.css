@@ -1,0 +1,49 @@
+
+h1 {
+    text-align: center;
+}
+
+.demo-table {
+    width:100%;
+	border:1px solid #EEEEEE;
+}
+
+.mat-header-cell {
+	width:100%;
+	background:#000;
+    color: white;
+}
+
+.mat-column-id {
+    width: 50px;
+    padding-right: 24px;
+    text-align: center;
+    margin: 5px;
+}
+
+.mat-raised-button {
+    background-color: orange;
+    width: 100%;
+    color: white;
+}
+
+.search {
+    text-align: center;
+}
+
+.search > input {
+    padding: 9px;
+    border: 1px solid;
+    border-radius: 22px;
+    font-size: 20px;
+    width: 40%;
+    text-align: center;
+}
+
+.search-btn {
+    padding: 8px;
+    border: none;
+    font-size: 24px;
+    margin: 0 8px;
+    border-radius: 19px;
+}
